@@ -1,7 +1,7 @@
-package org.example
+package org.example.br.com.giovanni.alugames.modelo
 
 data class Game(val title: String, val thumb: String) {
-    val description = ""
+    var description: String? = null
 
     override fun toString(): String {
         return "My Game ->\n" +
