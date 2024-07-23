@@ -36,3 +36,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+src/main/resources/META-INF/persistence.xml
+
+recommendedGames-Camila.json
+recommendedGames-Guilherme.json
+recommendedGames.json

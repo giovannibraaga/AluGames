@@ -3,7 +3,7 @@ package org.example.br.com.giovanni.alugames.principal
 import br.com.giovanni.alugames.models.Gamer
 import br.com.giovanni.alugames.services.APIUsage
 import br.com.giovanni.alugames.utils.transformInAge
-import org.example.br.com.giovanni.alugames.modelo.Game
+import org.example.br.com.giovanni.alugames.models.Game
 import java.util.*
 
 
